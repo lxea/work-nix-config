@@ -17,6 +17,7 @@
           pkgs.gopls
 		  pkgs.gotools
 		  pkgs.pkg-config
+		  pkgs.direnv
         ];
 
       # Auto upgrade nix package and the daemon service.
