@@ -18,6 +18,8 @@
 		  pkgs.gotools
 		  pkgs.pkg-config
 		  pkgs.direnv
+		  pkgs.mpv
+		  pkgs.google-cloud-sdk
         ];
 
       # Auto upgrade nix package and the daemon service.
